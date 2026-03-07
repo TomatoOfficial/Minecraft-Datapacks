@@ -1,0 +1,2 @@
+scoreboard objectives add wither_skull_count dummy wither_skull_count
+scoreboard players set wither_skull_max wither_skull_count 100
